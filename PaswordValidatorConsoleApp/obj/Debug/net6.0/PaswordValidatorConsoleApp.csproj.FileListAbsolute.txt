@@ -1,0 +1,51 @@
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.exe
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.deps.json
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.pdb
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\refint\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.pdb
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleApp\obj\Debug\net6.0\ref\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\bin\Debug\net6.0\PaswordValidatorConsoleApp.exe
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\bin\Debug\net6.0\PaswordValidatorConsoleApp.deps.json
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\bin\Debug\net6.0\PaswordValidatorConsoleApp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\bin\Debug\net6.0\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\bin\Debug\net6.0\PaswordValidatorConsoleApp.pdb
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\bin\Debug\net6.0\PasswordValidatorLibrary.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\bin\Debug\net6.0\PasswordValidatorLibrary.pdb
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\refint\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.pdb
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\PaswordValidatorConsoleApp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\PaswordValidatorConsoleAppV2\obj\Debug\net6.0\ref\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.exe
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.deps.json
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.runtimeconfig.json
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\bin\Debug\net6.0\PaswordValidatorConsoleApp.pdb
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\bin\Debug\net6.0\PasswordValidatorLibrary.dll
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\bin\Debug\net6.0\PasswordValidatorLibrary.pdb
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.csproj.CopyComplete
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\refint\PaswordValidatorConsoleApp.dll
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.pdb
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\PaswordValidatorConsoleApp.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Desktop\Academy C#NET\.NET ADVANCED-CONCEPTS\DesignPattern\DecoratorPattern\PasswordValidatorV2\PaswordValidatorConsoleApp\obj\Debug\net6.0\ref\PaswordValidatorConsoleApp.dll
